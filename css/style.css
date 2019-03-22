@@ -79,7 +79,7 @@ body {
 }
 
 .nav div.main_list ul li a:hover {
-    color: #0087a2;
+    color: #0097FF;
 }
 
 .login-container {
@@ -203,6 +203,9 @@ button {
 
 h6 {
     font-size: 2em;
+    font-weight: 100;
+    margin-top: 50px;
+    font
 }
 
 
@@ -557,7 +560,7 @@ color: #aaa;
 
 .affix {
     padding: 0;
-    background-color: #0087a2;
+    background-color: rgba(1, 92, 153, 0.9);
     z-index: 9999;
 }
 
